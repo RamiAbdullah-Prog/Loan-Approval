@@ -84,13 +84,16 @@ This comprehensive data provides a solid foundation for analyzing loan eligibili
 
 
   1. **What is the relationship between the applicant’s income and the requested loan amount?**
-    - Does an increase in the applicant’s income correlate with a higher loan amount requested?
+
+   - Does an increase in the applicant’s income correlate with a higher loan amount requested?
 
   2. **What is the impact of credit history on the likelihood of loan approval?**
-    - Do loans with applicants who have a good credit history have a higher chance of being approved?
+   
+   - Do loans with applicants who have a good credit history have a higher chance of being approved?
 
   3. **Which geographical regions have higher approval rates for loans?**
-    - Are urban areas more likely to have loan approvals compared to semi-urban or rural areas?
+
+   - Are urban areas more likely to have loan approvals compared to semi-urban or rural areas?
 
 
    
