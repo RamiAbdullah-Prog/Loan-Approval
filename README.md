@@ -4,7 +4,8 @@
 
 ---
 
-dd
+![Project Overview](Loan_Approval_image.jpg)
+
 
 ### **Project Description:**
 
